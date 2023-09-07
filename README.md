@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pakkawat Boonsri
 ========================================================================================================================================
 
-I'm interested in Mobile Developer
+I'm interested in Mobile Developer. Currently Using Mobile Framework like React Native, Flutter and Kotlin for Developing a Projects.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [pakkawat.boonsri@gmail.com](mailto:pakkawat.boonsri@gmail.com)
-* 🧠  I'm learning a Mobile Framework like React Native, Flutter and Kotlin
 
 ### Skills
 
