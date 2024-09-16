@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pakkawat.boonsri@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/user-attachments/files/17015215/Resume_pakkawat_boonsri.pdf) , [Portfolio](https://github.com/user-attachments/files/17015218/portfolio_pakkawat_boonsri.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sfKYequTw7TEauqiKMd7Gt6OgvKCKzdR/view?usp=sharing) , [Portfolio](https://drive.google.com/file/d/1jBjhToIc_BsPajrm_XB0IEW4tBA886Id/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
