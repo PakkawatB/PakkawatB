@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **IOS : { Swift , UIKit , SwiftUI } , Flutter , React Native**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1dSXZpjxMgsBnjC53FScB6zKmXAzx7dWq?usp=drive_link](https://drive.google.com/drive/folders/1dSXZpjxMgsBnjC53FScB6zKmXAzx7dWq?usp=drive_link)
-
 - 📫 How to reach me **pakkawat.boonsri@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sfKYequTw7TEauqiKMd7Gt6OgvKCKzdR/view?usp=sharing) , [Portfolio](https://drive.google.com/file/d/1jBjhToIc_BsPajrm_XB0IEW4tBA886Id/view?usp=sharing)
