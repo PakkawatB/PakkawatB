@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pakkawat Boonsri</h1>
-<h3 align="center">Interested in Mobile Developer using Flutter , IOS : { Swift , UIKit , SwiftUI } and React Native for Developing a Projects.</h3>
+<h3 align="center">Interested in Mobile Developer using Flutter , IOS and React Native for Developing a Projects.</h3>
 
 - 🌱 I’m currently learning **IOS : { Swift , UIKit , SwiftUI } , Flutter , React Native**
 
